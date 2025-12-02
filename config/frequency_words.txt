@@ -1,21 +1,14 @@
 嵌入式
 物联网
-就业
 
 AI
 大数据
 LLM
-stable diffusion
 NovelAI
-SD
 ！gai
 
-字节
-bytedance
-豆包
-
-特斯拉
-马斯克
+Space X
++马斯克
 
 微软
 Microsoft
@@ -38,21 +31,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
-自动驾驶
-
-机器人
-
 美国
 日本
 韩国
-
-芯片
-光刻机
 
 政治
 政策
